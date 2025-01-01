@@ -1,0 +1,13 @@
+---
+title: "한국어로 언어학하는 모임"
+description: |
+  매년 일본에서 열리는, 한국어로 이루어지는 언어학 학회입니다.
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+opts_chunk$set(echo = FALSE)
+```
+
+제1회 한언모는 2025년 9월 6-7일 오타루상과대학에서 열릴 예정입니다.

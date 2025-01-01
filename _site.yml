@@ -1,0 +1,13 @@
+name: "한언모"
+title: "한언모"
+theme: theme.css
+description: |
+  한국어로 언어학하는 모임
+output_dir: "docs"
+navbar:
+  right:
+    - text: "홈"
+      href: index.html
+    - text: "제1회 (2025년)"
+      href: 1.html
+output: distill::distill_article
